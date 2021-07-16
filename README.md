@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruch0
 - 👀 I’m interested in web development and python
-- 🌱 I’m currently learning web development and machine learning
+- 🌱 I’m currently learning web development, with emphasis on frontend and backend
 - 💞️ I’m looking to collaborate on simple and small projects
 
 <!---
