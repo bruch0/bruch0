@@ -2,22 +2,20 @@
 
 My name is Lucas and I've been studying web development since July 2021!
 
-##### Until now, I've learned
+### Until now, I've learned
 
 - HTML
-  - Classes, id's and main tags, such as button, anchors, divs and spans, 
+  - Classes, id's and main tags, such as button, anchors, divs and spans.
 - CSS
   - Main uses, like CSS reset and properties, such as display, flex,  selectors, media query, position, relative units, box-model, padding and border.
 - Javascript
-  - Functions, onClick functions, strings, concatenation, arithmetic operations. 
-
+  - Functions, onClick functions, strings, concatenation and arithmetic operations. 
 
 
 - Git
-  - Main commands, such as mkdir, ls, cd, touch, mv, git add, git commit and git log
+  - Main commands, such as mkdir, ls, cd, touch, mv, git add, git commit and git log.
 - GitHub
-  - Main commans, such as git clone, git remote, git branch and git push
-
+  - Main commans, such as git clone, git remote, git branch and git push.
 
 
 ![bruch0's github stats](https://github-readme-stats.vercel.app/api?username=bruch0)
