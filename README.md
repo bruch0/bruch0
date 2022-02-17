@@ -4,7 +4,7 @@
   
   [comment]: <> (<h3>Portfólio: <a href="https://www.pedrorivaldo.me" target="_blank">pedrorivaldo.me</a></h3>)
   
-  <p>DrivenDev in formation</p>
+  <p>DrivenDev</p>
 
 </div>
 
@@ -33,7 +33,7 @@
   ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Styled Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Electron Badge](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+  ![Electron Badge](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
   
   ### Back end
   ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
