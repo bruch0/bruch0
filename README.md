@@ -1,19 +1,15 @@
 <h1 align="center">Hello! I'm bruch0 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<div align="center">
-  
-  [comment]: <> (<h3>Portfólio: <a href="https://www.pedrorivaldo.me" target="_blank">pedrorivaldo.me</a></h3>)
-  
+<div align="center">  
   <p>DrivenDev</p>
-
 </div>
 
 <br>
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruch0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160Em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruch0&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruch0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruch0&layout=compact&langs_count=16&theme=tokyonight"/>
 
 </div>
 
